@@ -1,0 +1,14 @@
+root:!:0:0:vazio:/:/marcos
+daemon:!:1:1:vazio:/etc:vazio
+bin:!:2:2:vazio:/bin:vazio
+sys:!:3:3:vazio:/usr/sys:vazio
+adm:!:4:4:vazio:/var/adm:vazio
+uucp:!:5:5:vazio:/usr/lib/uucp:vazio
+guest:!:100:100:vazio:/home/guest:vazio
+nobody:!:4294967294:4294967294:vazio:/:vazio
+lp:*:11:11:vazio:/var/spool/lp:/bin/false
+invscout:*:200:1:vazio:/var/adm/invscout:/usr/bin/ksh
+nuucp:*:6:5:uucp login user:/var/spool/uucppublic:/usr/sbin/uucp/uucico
+paul:!:201:1:vazio:/home/paul:/usr/bin/ksh
+jdoe:*:202:1:John Doe:/home/jdoe:/usr/bin/ksh
+banana:3:343:324:breno:/caros:/negociolouco

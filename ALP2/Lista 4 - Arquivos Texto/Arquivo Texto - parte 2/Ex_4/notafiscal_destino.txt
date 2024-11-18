@@ -1,0 +1,20 @@
+Nota fiscal de Venda - nr.: 1231
+==================================================
+Cliente: Antonio da Silva
+
+CPF: 121.231.654-93
+==================================================
+Produtos:
+Seq Nome                                   QTE    Preco    Total
+--------------------------------------------------
+  1 Coca-cola 300 ml
+                 3     4.50    13.50
+  2 Arroz 5 kg
+                       1    23.80    23.80
+  3 Feijao 1 kg
+                      2     8.50    17.00
+==================================================
+Quantidade de itens vendidos ...: 3
+Quantidade total de produtos ...: 30554
+Valor total da venda............: R$ 54.30
+==================================================

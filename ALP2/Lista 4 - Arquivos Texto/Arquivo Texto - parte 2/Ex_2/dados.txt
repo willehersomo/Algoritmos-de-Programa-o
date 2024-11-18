@@ -1,0 +1,30 @@
+-----------Dados dos produtos----------- 
+Código do produto: 1
+Nome do produto: Arroz
+Preço: 5,00 
+Total em estoque: 100
+--------------
+Código do produto: 2
+Nome do produto: Feijao
+Preço: 4,00 
+Total em estoque: 50
+--------------
+Código do produto: 3
+Nome do produto: Macarrao
+Preço: 3,00 
+Total em estoque: 75
+--------------
+
+----------Dados das vendas------------ 
+Código do produto: 1
+Data da venda: 1/1/2023
+Quantidade vendida: 10
+--------------
+Código do produto: 2
+Data da venda: 1/1/2023
+Quantidade vendida: 5
+--------------
+Código do produto: 3
+Data da venda: 2/1/2023
+Quantidade vendida: 8
+--------------
